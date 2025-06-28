@@ -21,10 +21,7 @@ body {
 .content {
   background: #e3f4ff;
   margin: 8px auto;
-  padding-top: 16px;
-  padding-bottom: 16px;
-  padding-left: 8px;
-  padding-right: 8px;
+  padding: 16px 8px;
 }
 
 .button-container {
@@ -36,4 +33,5 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  padding: 80px 20px;
 }
